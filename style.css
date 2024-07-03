@@ -60,18 +60,18 @@ button{
 @media (max-width: 600px) {
     #box {
         width: 90%;
-        font-size: 16px; /* Increased font size for better readability */
-        padding: 10px; /* Reduced padding for smaller screen */
+        font-size: 16px;
+        padding: 15px;
     }
 
     .row {
-        font-size: 18px; /* Adjusted font size */
-        line-height: 1.5rem; /* Adjusted line height */
+        font-size: 18px;
+        line-height: 1.5rem;
     }
 
     button {
         width: 100%;
-        font-size: 18px; /* Increased font size for better readability */
-        padding: 12px; /* Increased padding for better touch area */
+        font-size: 18px;
+        padding: 12px;
     }
 }
